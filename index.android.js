@@ -12,10 +12,10 @@ import {
   View
 } from 'react-native';
 
-// import Demo from './app/container/Main.js';
+import Demo from './app/container/Main.js';
 // import Demo from './app/test/SectionHeader.js'
 // import Demo from './app/test/Animated.js'
-import Demo from './app/test/LearnAnimated.js'
+// import Demo from './app/test/LearnAnimated.js'
 
 
 AppRegistry.registerComponent('Wuba', () => Demo);
